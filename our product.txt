@@ -2,3 +2,4 @@ RAM
 MF RANKING
 SMART
 Quantix
+New rating product
